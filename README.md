@@ -1,4 +1,4 @@
-1、Hats off to Dr Con Kolivas, code from https://bitbucket.org/ckolivas/ckpool/src/master  
+1, Hats off to Dr Con Kolivas, code from https://bitbucket.org/ckolivas/ckpool/src/master  
 
 2, the reason for cutting such excellent software, mainly to understand its core code, focusing on the use of its proxy function, of course, if you understand the core code to do the mining pool is also a waterfall!  
 
