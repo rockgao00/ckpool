@@ -8,6 +8,9 @@
 
 5, please carefully study doctor's README file.  
 
+6, start tips：sudo apt-get install build-essential yasm autoconf automake libtool libzmq3-dev pkgconf;then,make  
+
+
 
 
 
